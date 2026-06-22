@@ -1,0 +1,5 @@
+C:/Users/keily/CLionProjects/patrones_diseno_ejercicio_2/cmake-build-debug/CMakeFiles/expenses_app.dir
+C:/Users/keily/CLionProjects/patrones_diseno_ejercicio_2/cmake-build-debug/CMakeFiles/expenses_tests.dir
+C:/Users/keily/CLionProjects/patrones_diseno_ejercicio_2/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/keily/CLionProjects/patrones_diseno_ejercicio_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/keily/CLionProjects/patrones_diseno_ejercicio_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/keily/CLionProjects/patrones_diseno_ejercicio_2/cmake-build-debug",
+  "command": "C:\\Users\\keily\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\g++.exe -IC:/Users/keily/CLionProjects/patrones_diseno_ejercicio_2/include -g -std=c++20 -fdiagnostics-color=always -o CMakeFiles\\expenses_app.dir\\src\\main.cpp.obj -c C:\\Users\\keily\\CLionProjects\\patrones_diseno_ejercicio_2\\src\\main.cpp",
+  "file": "C:/Users/keily/CLionProjects/patrones_diseno_ejercicio_2/src/main.cpp",
+  "output": "C:/Users/keily/CLionProjects/patrones_diseno_ejercicio_2/cmake-build-debug/CMakeFiles/expenses_app.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/keily/CLionProjects/patrones_diseno_ejercicio_2/cmake-build-debug",
+  "command": "C:\\Users\\keily\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\g++.exe -IC:/Users/keily/CLionProjects/patrones_diseno_ejercicio_2/include -g -std=c++20 -fdiagnostics-color=always -o CMakeFiles\\expenses_app.dir\\src\\expenses.cpp.obj -c C:\\Users\\keily\\CLionProjects\\patrones_diseno_ejercicio_2\\src\\expenses.cpp",
+  "file": "C:/Users/keily/CLionProjects/patrones_diseno_ejercicio_2/src/expenses.cpp",
+  "output": "C:/Users/keily/CLionProjects/patrones_diseno_ejercicio_2/cmake-build-debug/CMakeFiles/expenses_app.dir/src/expenses.cpp.obj"
+},
+{
+  "directory": "C:/Users/keily/CLionProjects/patrones_diseno_ejercicio_2/cmake-build-debug",
+  "command": "C:\\Users\\keily\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\g++.exe -IC:/Users/keily/CLionProjects/patrones_diseno_ejercicio_2/include -g -std=c++20 -fdiagnostics-color=always -o CMakeFiles\\expenses_tests.dir\\tests\\test_expenses.cpp.obj -c C:\\Users\\keily\\CLionProjects\\patrones_diseno_ejercicio_2\\tests\\test_expenses.cpp",
+  "file": "C:/Users/keily/CLionProjects/patrones_diseno_ejercicio_2/tests/test_expenses.cpp",
+  "output": "C:/Users/keily/CLionProjects/patrones_diseno_ejercicio_2/cmake-build-debug/CMakeFiles/expenses_tests.dir/tests/test_expenses.cpp.obj"
+},
+{
+  "directory": "C:/Users/keily/CLionProjects/patrones_diseno_ejercicio_2/cmake-build-debug",
+  "command": "C:\\Users\\keily\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\g++.exe -IC:/Users/keily/CLionProjects/patrones_diseno_ejercicio_2/include -g -std=c++20 -fdiagnostics-color=always -o CMakeFiles\\expenses_tests.dir\\src\\expenses.cpp.obj -c C:\\Users\\keily\\CLionProjects\\patrones_diseno_ejercicio_2\\src\\expenses.cpp",
+  "file": "C:/Users/keily/CLionProjects/patrones_diseno_ejercicio_2/src/expenses.cpp",
+  "output": "C:/Users/keily/CLionProjects/patrones_diseno_ejercicio_2/cmake-build-debug/CMakeFiles/expenses_tests.dir/src/expenses.cpp.obj"
+}
+]
